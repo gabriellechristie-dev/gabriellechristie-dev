@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/gabriellechristie-dev/gabriellechristie-dev/blob/main/githubwpp.png" width="100%"/>
 </p>
-
 # Gabrielle Christie 👩‍💻
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas - SENAC
