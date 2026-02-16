@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Gabrielle%20Christie&fontSize=35&fontColor=ffffff"/>
+
+# Gabrielle Christie 👩‍💻
+
 # Gabrielle Christie 👩‍💻
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas - SENAC
