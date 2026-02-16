@@ -1,6 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Gabrielle%20Christie&fontSize=35&fontColor=ffffff"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="800"/>
+</p>
 
-# Gabrielle Christie 👩‍💻
+
+
 
 # Gabrielle Christie 👩‍💻
 
