@@ -1,6 +1,6 @@
 # Gabrielle Christie 👩‍💻
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - SENAC - 1/6  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - SENAC - 
 💻 Foco em Desenvolvimento Full-stack  
 🚀 Buscando minha primeira oportunidade de estágio em tecnologia  
 
