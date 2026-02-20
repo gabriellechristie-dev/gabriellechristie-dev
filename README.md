@@ -26,7 +26,7 @@ Construindo projetos práticos para consolidar lógica de programação e desenv
 ---
 ## 📜 Certificações
 🎓LÓGICA DE PROGRAMAÇÃO - UECE/DELL
-[📄 Certificado ](certificado-powerbi.pdf)
+[📄 Certificado ](LÓGICA DE PROGRAMAÇÃO UECE.pdf)
 
 🎓PYTOHN - UECE/DELL
 📄 [Certificado](certificado-powerbi.pdf)
@@ -36,6 +36,7 @@ Construindo projetos práticos para consolidar lógica de programação e desenv
 
 🎓PROGRAMAÇÃO - InfoBio Jr. e ICMC Jr - USP
 📄 [Certificado](certificado-powerbi.pdf)
+
 ---
 
 ## 📂 Projetos
