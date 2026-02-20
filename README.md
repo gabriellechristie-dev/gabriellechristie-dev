@@ -24,6 +24,19 @@ Estou em transição de carreira para a área de tecnologia, focada em desenvolv
 Construindo projetos práticos para consolidar lógica de programação e desenvolvimento full-stack.
 
 ---
+## 📜 Certificações
+🎓LÓGICA DE PROGRAMAÇÃO - UECE/DELL
+[📄 Certificado ](certificado-powerbi.pdf)
+
+🎓PYTOHN - UECE/DELL
+📄 [Certificado](certificado-powerbi.pdf)
+
+🎓HTML E CSS - UECE/DELL
+📄 [Certificado](certificado-powerbi.pdf)
+
+🎓PROGRAMAÇÃO - InfoBio Jr. e ICMC Jr - USP
+📄 [Certificado](certificado-powerbi.pdf)
+---
 
 ## 📂 Projetos
 🔹 Em desenvolvimento — novos projetos em breve.
