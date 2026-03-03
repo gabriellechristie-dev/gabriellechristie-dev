@@ -9,7 +9,7 @@
 Python Essentials 1 - Cisco Networking Academy 
 <p align="left">
   <a href="https://www.credly.com/earner/earned/badge/45d7cc81-6f0c-472b-b7a8-474dcefe8552" target="_blank">
-    <img src="PythonEssentials1Update20260303-31-9tgt9a_page-0001 (1).jpg" width="50" alt="Cisco Badge"/>
+    <img src="PythonEssentials1Update20260303-31-9tgt9a_page-0001 (1).jpg" width="80" alt="Cisco Badge"/>
   </a>
 </p>
 
