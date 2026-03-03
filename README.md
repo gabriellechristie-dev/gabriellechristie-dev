@@ -18,12 +18,6 @@
 </p>
 
 ---
-
-## 🏆 Certificados
-Python Essentials 1 - Cisco Networking Academy
-[![Cisco Badge](PythonEssentials1Update20260303-31-9tgt9a_page-0001 (1).jpg
-)](https://www.credly.com/earner/earned/badge/45d7cc81-6f0c-472b-b7a8-474dcefe8552){width=50px}
----
 ## 📌 Sobre mim
 Estou em transição de carreira para a área de tecnologia, focada em desenvolvimento de software e evolução constante.  
 Construindo projetos práticos para consolidar lógica de programação e desenvolvimento full-stack.
