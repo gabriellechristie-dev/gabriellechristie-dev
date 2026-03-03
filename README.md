@@ -1,8 +1,8 @@
 
-# Gabrielle Christie 
+# Olá, Sou Gabrielle Christie 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas - SENAC
-💻 Foco em Desenvolvimento Full-stack  
+💻 Desenvolvimento Full-stack  
 ---
 
 ## 🏆 Certificados
