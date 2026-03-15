@@ -1,7 +1,8 @@
+# Olá, sou Gabrielle Christie !
 
-🎓Estudante de ADS - SENAC
+- Estudante de ADS - SENAC 📚
+- Foco em Desenvolvimento Full-stack 🖥️
 
-💻Foco em Desenvolvimento Full-stack  
 ---
 
 
