@@ -24,9 +24,9 @@ Em transição de carreira para tecnologia, construindo projetos práticos para 
 ## 📂 Projetos
 
 - 🧮 [BodyCheck](https://github.com/gabriellechristie-dev/projeto-bodycheck/tree/main)
-- Calculadora de IMC com validação de dados, tratamento de erros e recomendações personalizadas.  
+     Calculadora de IMC com validação de dados, tratamento de erros e recomendações personalizadas.  
 
 - 🤖 [DevAssist](https://github.com/gabriellechristie-dev/projeto-devassist )
-- Assistente de programação em desenvolvimento, focado em explicar conceitos e ajudar iniciantes, com integração frontend-backend em tempo real.
+    Assistente de programação em desenvolvimento, focado em explicar conceitos e ajudar iniciantes, com integração frontend-backend em tempo real.
 
 
