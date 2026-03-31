@@ -27,9 +27,5 @@ Construindo projetos práticos para consolidar lógica de programação e desenv
 ## 📂 Projetos
 🔹 Em desenvolvimento — novos projetos em breve.
 
-## 🚀 Mini Projetos
-### 🧮 Calculadora de IMC 🚧
-Aplicação em Python com validação de dados e classificação automática.
 
-🔗 Ver projeto: https://github.com/gabriellechristie-dev/mini-projetos.git
 
