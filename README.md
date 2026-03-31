@@ -24,7 +24,7 @@ Em transição de carreira para tecnologia, construindo projetos práticos para 
 ## 📂 Projetos
 
 - 🧮 [BodyCheck](https://github.com/gabriellechristie-dev/projeto-bodycheck/tree/main)
-  (Em desenvolvimento)
+  *🚧 Em desenvolvimento* 
   Calculadora de IMC com validação de dados, tratamento de erros e recomendações personalizadas.  
 
 
