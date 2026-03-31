@@ -26,7 +26,7 @@ Construindo projetos práticos para consolidar lógica de programação e desenv
 
 ## 📂 Projetos
 
-- 🧮 [BodyCheck](https://github.com/gabriellechristie-dev/mini-projetos/tree/main/calculadora-imc)  
+- 🧮 [BodyCheck](https://github.com/gabriellechristie-dev/projeto-bodycheck/tree/main)  
   Calculadora de IMC com validação de dados, tratamento de erros e recomendações personalizadas.  
 
 
