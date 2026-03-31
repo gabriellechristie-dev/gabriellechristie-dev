@@ -1,9 +1,9 @@
 # Olá, sou Gabrielle Christie !
 
 
-Desenvolvedora Full Stack em formação | Python • Lógica de Programação • Projetos práticos
+Desenvolvedora em formação | Python • Lógica de Programação • Projetos práticos
 
-Em transição de carreira para tecnologia, construindo projetos práticos para evoluir em desenvolvimento de software.
+Em transição de carreira para tecnologia, construindo projetos práticos para evoluir em desenvolvimento de software, com foco em Full-Stack.
 
 
 ---
