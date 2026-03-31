@@ -1,7 +1,10 @@
 # Olá, sou Gabrielle Christie !
 
-- Estudante de ADS - SENAC 📚
-- Foco em Desenvolvimento Full-stack 🖥️
+
+Desenvolvedora Full Stack em formação | Python • Lógica de Programação • Projetos práticos
+
+Em transição de carreira para tecnologia, construindo projetos práticos para evoluir em desenvolvimento de software.
+
 
 ---
 
@@ -17,12 +20,6 @@
 </p>
 
 ---
-## 📌 Sobre mim
-Estou em transição de carreira para a área de tecnologia, focada em desenvolvimento de software e evolução constante.  
-Construindo projetos práticos para consolidar lógica de programação e desenvolvimento full-stack.
-
----
-
 
 ## 📂 Projetos
 
