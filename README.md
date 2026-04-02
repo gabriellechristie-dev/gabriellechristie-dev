@@ -26,22 +26,4 @@
   </a>
 </div>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="center">
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src= "https://github-readme-stats.vercel.app/api?username=gabriellechristie-dev"
-  />
-
-<img 
-      <p align="center"> 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellechristie-dev" 
-  />
-
-</p>
