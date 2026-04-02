@@ -1,32 +1,42 @@
-# Olá, sou Gabrielle Christie !
+<p align="center">Olá, sou Gabrielle Christie ! 🫡<br>Atualmente cursando Análise e Desenvolvimento de Sistemas com foco em Full-Stack</p>
 
+###
 
-Desenvolvedora em formação | Python • Lógica de Programação • Projetos práticos
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+</div>
 
-Em transição de carreira para tecnologia, construindo projetos práticos para evoluir em desenvolvimento de software, com foco em Full-Stack.
+###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabrielle-christie-8128063ab/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
----
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriellechristie-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellechristie-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=gabriellechristie-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=gabriellechristie-dev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-## 🛠 Tecnologias 
+###
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriellechristie-dev/gabriellechristie-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriellechristie-dev/gabriellechristie-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabriellechristie-dev/gabriellechristie-dev/output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-## 📂 Projetos
-
-- 🧮 [BodyCheck](https://github.com/gabriellechristie-dev/projeto-bodycheck/tree/main)
-     Calculadora de IMC com validação de dados, tratamento de erros e recomendações personalizadas.  
-
-- 🤖 [DevAssist](https://github.com/gabriellechristie-dev/projeto-devassist )
-    Assistente de programação em desenvolvimento, focado em explicar conceitos e ajudar iniciantes, com integração frontend-backend em tempo real.
-
-
+###
