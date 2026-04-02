@@ -30,7 +30,7 @@
 
 <p>
   <img 
-    align="left" 
+    align="center">
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -38,7 +38,7 @@
   />
 
 <img 
-      align="left" 
+      <p align="center"> 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellechristie-dev" 
