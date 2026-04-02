@@ -1,6 +1,7 @@
 <h3 align="left">Olá mundo, sou Gabrielle Christie ! 🫡</h3>
 
-**`Cursando Análise e Desenvolvimento de Sistemas`**
+**`Cursando Análise e Desenvolvimento de Sistemas`**  
+
 **`Desenvolvimento FullStack`**
 
 ###
