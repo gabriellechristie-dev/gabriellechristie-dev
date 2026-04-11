@@ -1,8 +1,9 @@
 <h1 align="center">Olá 👋, eu sou Gabrielle Christie</h1>
 
-<h3 align="center">
-  💻 Desenvolvedora <span style="color:#58a6ff;">Fullstack</span>
-</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvedora-Fullstack-blue?style=for-the-badge"/>
+</p>
+
 
 ---
 
