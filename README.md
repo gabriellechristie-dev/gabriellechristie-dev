@@ -1,10 +1,9 @@
 <h1 align="center">Olá 👋, eu sou Gabrielle Christie</h1>
 
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-💻 Focada em Desenvolvimento Fullstack
+  <img src="https://img.shields.io/badge/Desenvolvedora-Fullstack-blue?style=for-the-badge"/>
 </p>
-
+-
 ---
 
 ### Tecnologias 
