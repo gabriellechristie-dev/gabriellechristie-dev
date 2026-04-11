@@ -27,9 +27,14 @@
 
 ###  Sobre mim
 
-- 📚 Atualmente estudando ADS  
-- 💡 Sempre aprendendo algo novo  
-- 🎯 Em busca da minha primeira oportunidade na área de tecnologia  
+### ✨ Sobre mim
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+- 🔄 Em transição de carreira para a área de tecnologia  
+- 💻 Focada em Desenvolvimento Fullstack (Python, JavaScript e Web)  
+- 🚀 Criando projetos práticos para consolidar aprendizado
+- 📚 Em constante evolução na área de tecnologia  
+- 🎯 Buscando minha primeira oportunidade para aplicar meus conhecimentos na prática  
 
 ---
 
