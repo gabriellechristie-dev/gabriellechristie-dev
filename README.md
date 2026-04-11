@@ -35,8 +35,9 @@
 
 ###  Estatísticas
 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriellechristie-dev&show_icons=true&theme=tokyonight"/>
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriellechristie-dev&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriellechristie-dev&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriellechristie-dev&layout=compact&theme=tokyonight"/>
+</p>
 
 
