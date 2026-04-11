@@ -1,29 +1,43 @@
-<h3 align="left">Olá mundo, sou Gabrielle Christie ! 🫡</h3>
+<h1 align="center">Olá 👋, eu sou Gabrielle Christie</h1>
 
-**`Cursando Análise e Desenvolvimento de Sistemas`**  
+<p align="center">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+💻 Focada em Desenvolvimento Fullstack
+</p>
 
-**`Desenvolvimento FullStack`**
+---
 
-###
+### Tecnologias 
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git" />
+</p>
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabrielle-christie-8128063ab/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+###  Conecte-se comigo
+
+<p align="center">
+  <a href="SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</div>
+</p>
+
+---
+
+###  Sobre mim
+
+- 📚 Atualmente estudando ADS  
+- 💡 Sempre aprendendo algo novo  
+- 🎯 Em busca da minha primeira oportunidade na área de tecnologia  
+
+---
+
+###  Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriellechristie-dev&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellechristie-dev&layout=compact&theme=tokyonight"/>
+</p>
 
 
