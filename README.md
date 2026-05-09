@@ -26,11 +26,14 @@
 
 ---
 ### Badges
-<img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="90px">
-<img src="https://images.credly.com/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" width="90px">
+
+<p align="left">
+  <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="90px" />
+  &nbsp;
+  <img src="https://images.credly.com/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" width="90px" />
+</p>
+
 ---
-
-
 
 ### ✨ Sobre mim
 
