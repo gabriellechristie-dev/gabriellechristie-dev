@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Gabrielle Christie</h1>
+<h1 align="center">Olá, eu sou Gabrielle Christie 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Desenvolvimento_de_Software-red?style=for-the-badge"/>
