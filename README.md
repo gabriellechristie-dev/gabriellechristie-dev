@@ -1,16 +1,15 @@
 <h1 align="center">Olá 👋, eu sou Gabrielle Christie</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvimento-Fullstack-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Desenvolvimento_de_Software-red?style=for-the-badge"/>
 </p>
-
 
 ---
 
 ### Tecnologias 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,postgres" />
 </p>
 
 ---
@@ -25,15 +24,7 @@
 
 
 ---
-### Badges
 
-<p align="left">
-  <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="90px" />
-  &nbsp;
-  <img src="https://images.credly.com/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" width="90px" />
-</p>
-
----
 
 ### ✨ Sobre mim
 
