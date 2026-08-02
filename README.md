@@ -29,7 +29,7 @@
 ### ✨ Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 💻 Focada em Desenvolvimento Fullstack Web 
+- 💻 Focada em Desenvolvimento Backend e Fullstack Web 
 - 🚀 Criando projetos práticos para consolidar aprendizado
 
 
