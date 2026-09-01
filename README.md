@@ -1,253 +1,111 @@
+<div align="center">
 
-<h1 align="center">Olá, eu sou Gabrielle Christie 👋</h1>
+# ⚡ Gabrielle Christie
 
-<p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=750&lines=Desenvolvedora+Backend+em+forma%C3%A7%C3%A3o;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Criando+APIs+e+aplica%C3%A7%C3%B5es+Full+Stack;Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Apresentação animada"/>
-</a>
-</p>
+### **Desenvolvedora Backend em formação**
 
-<p align="center">
-<img src="https://img.shields.io/badge/Backend-B91C1C?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend"/>
-<img src="https://img.shields.io/badge/Full%20Stack-111827?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack"/>
-<img src="https://img.shields.io/badge/Disponível%20para%20estágio-15803D?style=for-the-badge" alt="Disponível para estágio"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=E11D48&center=true&vCenter=true&width=650&lines=Desenvolvedora+Backend+em+forma%C3%A7%C3%A3o;Python+%7C+Node.js+%7C+JavaScript+%7C+SQL;Construindo+APIs+RESTful+%26+Modelagem+de+Dados;Git+%7C+GitHub+%7C+PostgreSQL+%7C+Prisma)](https://git.io/typing-svg)
 
----
+<br />
 
-## `{ sobre_mim }`
+[![Backend Focus](https://img.shields.io/badge/Foco-Backend_em_Formação-E11D48?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![Graduação](https://img.shields.io/badge/Ensino-Análise_e_Desenvolvimento_de_Sistemas-1E293B?style=for-the-badge)](#)
+[![Disponível para Oportunidades](https://img.shields.io/badge/🟢_Disponível_para-Estágio_%2F_Júnior-10B981?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/gabriellechristie7/)
 
-- 💻 Foco em desenvolvimento Backend e Full Stack
-- 🧠 Interesse em lógica, APIs REST e bancos de dados
-- 🚀 Construindo projetos para aplicar conhecimentos na prática
-- 📚 Estudando Python, JavaScript, Node.js e desenvolvimento web
-- 🎯 Buscando minha primeira oportunidade na área de tecnologia
+</div>
 
 ---
 
-## `{ projetos_em_destaque }`
+## 💻 `{ sobre_mim }`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">
-<a href="https://github.com/gabriellechristie-dev/Agendamento-Quadras-Esportivas-DFS-2026.2">
-🏟️ Agendamento de Quadras
-</a>
-</h3>
-
-<p>
-API REST desenvolvida em equipe para gerenciamento de jogadores, quadras esportivas e reservas.
-</p>
-
-<p>
-<strong>Principais recursos:</strong> autenticação, usuários, quadras, reservas e prevenção de conflitos de horários.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
-<img src="https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-<img src="https://img.shields.io/badge/Jest-111827?style=flat-square&logo=jest&logoColor=C21325" alt="Jest"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/STATUS-BACKEND%20DESENVOLVIDO-15803D?style=flat-square" alt="Backend desenvolvido"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/gabriellechristie-dev/Agendamento-Quadras-Esportivas-DFS-2026.2">
-<img src="https://img.shields.io/badge/VER%20REPOSITORIO-B91C1C?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/>
-</a>
-</p>
-</td>
-
-<td width="50%" valign="top">
-<h3 align="center">
-<a href="https://github.com/gabriellechristie-dev/sistema-financeiro">
-💰 Sistema Financeiro
-</a>
-</h3>
-
-<p>
-Sistema para gerenciamento de contas, receitas, despesas, categorias e metas financeiras.
-</p>
-
-<p>
-<strong>Etapa atual:</strong> requisitos, regras de negócio, documentação e modelagem do banco de dados.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/DBeaver-111827?style=flat-square" alt="DBeaver"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-D97706?style=flat-square" alt="Em desenvolvimento"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/gabriellechristie-dev/sistema-financeiro">
-<img src="https://img.shields.io/badge/VER%20REPOSITORIO-B91C1C?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/>
-</a>
-</p>
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-<h3 align="center">
-<a href="https://github.com/gabriellechristie-dev/sistema-acaiteria">
-🍧 Sistema da Açaiteria
-</a>
-</h3>
-
-<p align="center">
-Sistema para gerenciamento de clientes, produtos, tamanhos, adicionais, pedidos, pagamentos e faturamento de uma açaiteria.
-</p>
-
-<p align="center">
-<strong>Etapa atual:</strong> requisitos, regras de negócio e modelagem do banco de dados.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/MySQL%20Workbench-111827?style=flat-square" alt="MySQL Workbench"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-D97706?style=flat-square" alt="Em desenvolvimento"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/gabriellechristie-dev/sistema-acaiteria">
-<img src="https://img.shields.io/badge/VER%20REPOSITORIO-B91C1C?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/>
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<details>
-<summary><strong>🏟️ Agendamento de Quadras — ver detalhes</strong></summary>
-
-<br>
-
-<ul>
-<li>Projeto desenvolvido em equipe durante o bootcamp Full Stack.</li>
-<li>API REST para gerenciamento de jogadores, quadras e reservas.</li>
-<li>Autenticação e autorização utilizando JWT.</li>
-<li>Banco de dados PostgreSQL utilizando Prisma ORM.</li>
-<li>Prevenção de reservas em horários conflitantes.</li>
-<li>Testes automatizados com Jest e Supertest.</li>
-</ul>
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>💰 Sistema Financeiro — ver detalhes</strong></summary>
-
-<br>
-
-<ul>
-<li>Projeto individual Full Stack.</li>
-<li>Gerenciamento de contas, receitas e despesas.</li>
-<li>Organização das movimentações por categorias.</li>
-<li>Criação e acompanhamento de metas financeiras.</li>
-<li>Modelagem do banco de dados com PostgreSQL.</li>
-<li>Backend planejado com Python e FastAPI.</li>
-<li>Frontend planejado com React.</li>
-</ul>
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>🍧 Sistema da Açaiteria — ver detalhes</strong></summary>
-
-<br>
-
-<ul>
-<li>Projeto individual para gerenciamento de uma açaiteria.</li>
-<li>Cadastro de clientes, produtos, tamanhos e adicionais.</li>
-<li>Gerenciamento de pedidos e pagamentos.</li>
-<li>Controle de faturamento.</li>
-<li>Modelagem do banco de dados com MySQL.</li>
-<li>Backend planejado com Node.js, Express e Prisma.</li>
-<li>Frontend planejado com React.</li>
-</ul>
-
-</details>
+- 🎯 **Foco de Atuação:** Desenvolvimento Backend 
+- 🎓 **Formação:** Graduanda em Análise e Desenvolvimento de Sistemas.
+- 🛠️ **Tecnologias:** Python, Node.js, JavaScript, SQL, APIs REST e Git.
+- 🧠 **Interesses:** Lógica de negócio, arquitetura de APIs REST, modelagem de banco de dados SQL e arquitetura de software.
+- 🚀 **Objetivo:** Buscando oportunidades de **Estágio** ou posição **Júnior** em desenvolvimento Backend / Software.
 
 ---
 
-## `{ tecnologias }`
+## 🏆 `{ projeto_em_destaque }`
 
-<h3 align="center"> Backend</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,express,prisma" alt="Tecnologias Backend"/>
-</p>
+### 🏟️ **ArenaPlay — Sistema de Agendamento de Quadras Esportivas**
+*Plataforma Full Stack desacoplada para gerenciamento e reservas online de quadras em tempo real.*
 
+![Status](https://img.shields.io/badge/Status-Full_Stack_Conclu%C3%ADdo-10B981?style=for-the-badge)
+![Arquitetura](https://img.shields.io/badge/Arquitetura-Decoupled_SPA_%2F_API-3B82F6?style=for-the-badge)
 
-<br>
+<br />
 
-<h3 align="center"> Frontend</h3>
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React_18-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=646CFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-111827?style=flat-square&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-111827?style=flat-square&logo=jest&logoColor=C21325)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,react" alt="Tecnologias Frontend"/>
-</p>
+</div>
 
-<br>
+<br />
 
-<h3 align="center"> Banco de Dados</h3>
+### 🌟 Diferenciais Técnicos & Recursos
+* **⚡ Motor Anti-Conflito de Horários:** Algoritmo de validação no backend que impede agendamentos sobrepostos (*overbooking*) em tempo real.
+* **🛡️ Autenticação & RBAC:** Proteção de rotas com `JWT`, criptografia de senhas via `bcrypt` e controle granular de permissões (`JOGADOR` e `ADMIN`).
+* **🧪 Qualidade & Cobertura:** Suíte automatizada de testes de integração desenvolvida com `Jest` e `Supertest`.
+* **🎨 Frontend SPA Responsivo:** Interface moderna construída em React 18 com Tailwind CSS, consumindo a API através do Axios com interceptors de autorização.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Bancos de dados"/>
-</p>
+<br />
 
-<br>
+<div align="center">
 
-<h3 align="center"> Ferramentas</h3>
+[![Acessar Repositório](https://img.shields.io/badge/VER_REPOSITÓRIO_NO_GITHUB-B91C1C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriellechristie-dev/Agendamento-Quadras-Esportivas-DFS-2026.2)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Ferramentas"/>
-</p>
+</div>
 
 ---
 
-## `{ github_analytics }`
+## 🛠️ `{ tecnologias_e_ferramentas }`
 
-<p align="center">
-<img width="82%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Resumo do perfil GitHub"/>
-</p>
+<div align="center">
 
-<p align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 `{ github_analytics }`
+
+<div align="center">
+
+<img width="85%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Resumo do perfil GitHub"/>
+
+<br /><br />
+
 <img width="42%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub"/>
 <img width="42%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Linguagens por repositório"/>
-</p>
+
+</div>
 
 ---
 
-## `{ conecte_se_comigo }`
+## 📫 `{ conecte_se_comigo }`
 
-<p align="center">
-<a href="https://www.linkedin.com/in/gabriellechristie7/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</p>
+<div align="center">
 
-<p align="center">
-<strong>Disponível para oportunidades de estágio em desenvolvimento de software.</strong>
-</p> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellechristie7/)
+
+<br />
+
+💼 *Disponível para oportunidades de Estágio e Desenvolvedora Backend Júnior.*
+
+</div>
